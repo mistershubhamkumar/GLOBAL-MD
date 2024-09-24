@@ -10,8 +10,8 @@ global.location = "Pakistan, Karachi, Karachi" //ur location
 
 //new
 global.botname = '© 𝐆𝐋𝐎𝐁𝐀𝐋-𝐌𝐃' //ur bot name
-global.ownernumber = ['923444844060'] //ur owner number, dont add more than one
-global.ownername = '© GlobalTechInfo' //ur owner name
+global.ownernumber = ['916260273863'] //ur owner number, dont add more than one
+global.ownername = '© Mr Shubham Sir' //ur owner name
 global.websitex = "https://www.youtube.com/@GlobalTechInfo"
 global.wagc = "https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07"
 global.themeemoji = '🪀'
@@ -21,7 +21,7 @@ global.packname = "Sticker By"
 global.author = "GlobalTechInfo\n\n+923444844060"
 global.creator = "923444844060@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["923444844060"] // Premium User
+global.premium = ["916260273863"] // Premium User
 
 //channel id
 global.xchannel = {
